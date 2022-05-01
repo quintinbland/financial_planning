@@ -2,7 +2,7 @@
 
 This program is a financial planner for:
 * Emergencies. Use this tool to visualize current savings and then determine if enough reserves are available for an emergency fund
-* Retirement. This tool can forcast the performance of retirement portfolios over a 30 year period. Forecasting is made possible by making an Alpaca API call via the Alpaca SDK to get historical price data for use in Monte Carlo simulations.
+* Retirement. This tool can forecast the performance of retirement portfolios over a 30 year period. Forecasting is made possible by making an Alpaca API call via the Alpaca SDK to get historical price data for use in Monte Carlo simulations.
 
 ---
 
