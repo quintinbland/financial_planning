@@ -2,7 +2,7 @@
 
 This program is a financial planner for:
 * Emergencies. Use this tool to visualize current savings and then determine if enough reserves are available for an emergency fund
-* Retirement. This tool can forcast the performance of retirement portfolios over a 30 year period. Forecasting is made possible by making an Alpaca API call via the Alpaca SDK to get historical price data for use in Monte Carlo simulations.
+* Retirement. This tool can forecast the performance of retirement portfolios over a 30 year period. Forecasting is made possible by making an Alpaca API call via the Alpaca SDK to get historical price data for use in Monte Carlo simulations.
 
 ---
 
@@ -42,10 +42,13 @@ Before running the application first install the following dependencies.
 
 ## Contributors
 
-Quintin Bland
+
+*  **Quintin Bland** <span>&nbsp;&nbsp;</span> |
+<span>&nbsp;&nbsp;</span> *email:* quintinbland2@gmail.com <span>&nbsp;&nbsp;</span>|
+<span>&nbsp;&nbsp;</span> <a href="https://www.linkedin.com/in/quintin-bland-a2b94310b/"><img src="https://img.shields.io/badge/-Quintin_Bland-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> 
 
 ---
 
 ## License
 
-MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
